@@ -1,1 +1,11 @@
 knowledge_finetune.jsonl
+
+# fine-tune outputs
+finetune/outputs/
+finetune/*.jsonl
+finetune/*.db
+finetune/*.index
+finetune/knowledge_tank.db
+*.pyc
+__pycache__/
+uv.lock
