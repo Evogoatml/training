@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1513376140 source:e:\projects\statistical learning\linear regresion\linreg.cpp
+	"linreg.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1513380518 e:\projects\statistical learning\linear regresion\linreg.h
+	<string>
+	<vector>
+
+1513376339 source:e:\projects\statistical learning\linear regresion\main.cpp
+	<iostream>
+	<string>
+	"linreg.h"
+

@@ -1,0 +1,1 @@
+This is mini c++ library for simple linear regresion, it's main purpose is learning, so nothing fancy... All of the documentation will be provided only in Serbian (at least for now).

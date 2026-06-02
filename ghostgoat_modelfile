@@ -1,0 +1,2 @@
+FROM llama3.2
+ADAPTER "/media/popic/New Volume/training/knowledge_finetune.jsonl"

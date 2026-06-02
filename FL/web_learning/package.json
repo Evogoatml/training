@@ -1,0 +1,21 @@
+{
+  "name": "heap-sort-visualizer",
+  "version": "1.0.0",
+  "description": "Interactive web-based Heap Sort visualizer with animations",
+  "main": "index.html",
+  "scripts": {
+    "start": "python server.py",
+    "server": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "heap-sort",
+    "visualization",
+    "data-structures",
+    "algorithms",
+    "educational"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
